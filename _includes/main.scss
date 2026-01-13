@@ -28,3 +28,14 @@
 
 // 5-TRUMPS
 @import '5-trumps/helpers';
+// Custom : Couleur du bouton Read More pour Nova Cendres
+.read-more {
+    color: #888888 !important;
+    border: 1px solid #888888 !important;
+    background-color: transparent !important;
+}
+
+.read-more:hover {
+    background-color: #888888 !important;
+    color: #ffffff !important;
+}
