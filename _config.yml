@@ -15,5 +15,5 @@ collections:
     output: true
     site_navigation: main
 
-   footer:
+  footer:
   disable_thanks: true
